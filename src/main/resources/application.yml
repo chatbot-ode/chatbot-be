@@ -1,5 +1,5 @@
 server:
-  port: 4000
+  port: 4002
 
 # 파이썬 설정
 python:
